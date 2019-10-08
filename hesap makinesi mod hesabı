@@ -1,0 +1,17 @@
+public class mod {
+
+    public static void main(String[] args) {
+
+        int number;
+
+        number = 40;
+
+        if (number % 2 == 1)
+
+            System.out.println("Sayı tek");
+
+        else
+
+            System.out.println("Sayı çift");
+    }
+}
